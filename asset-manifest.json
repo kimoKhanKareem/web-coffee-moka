@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/websitecoffeemoka/static/css/main.ce9a0614.chunk.css",
+    "main.js": "/websitecoffeemoka/static/js/main.38f85ee5.chunk.js",
+    "main.js.map": "/websitecoffeemoka/static/js/main.38f85ee5.chunk.js.map",
+    "runtime-main.js": "/websitecoffeemoka/static/js/runtime-main.0e807c99.js",
+    "runtime-main.js.map": "/websitecoffeemoka/static/js/runtime-main.0e807c99.js.map",
+    "static/css/2.ceddce8a.chunk.css": "/websitecoffeemoka/static/css/2.ceddce8a.chunk.css",
+    "static/js/2.30923e3f.chunk.js": "/websitecoffeemoka/static/js/2.30923e3f.chunk.js",
+    "static/js/2.30923e3f.chunk.js.map": "/websitecoffeemoka/static/js/2.30923e3f.chunk.js.map",
+    "index.html": "/websitecoffeemoka/index.html",
+    "static/css/2.ceddce8a.chunk.css.map": "/websitecoffeemoka/static/css/2.ceddce8a.chunk.css.map",
+    "static/css/main.ce9a0614.chunk.css.map": "/websitecoffeemoka/static/css/main.ce9a0614.chunk.css.map",
+    "static/js/2.30923e3f.chunk.js.LICENSE.txt": "/websitecoffeemoka/static/js/2.30923e3f.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/websitecoffeemoka/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0e807c99.js",
+    "static/css/2.ceddce8a.chunk.css",
+    "static/js/2.30923e3f.chunk.js",
+    "static/css/main.ce9a0614.chunk.css",
+    "static/js/main.38f85ee5.chunk.js"
+  ]
+}
