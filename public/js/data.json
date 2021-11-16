@@ -1,0 +1,185 @@
+{
+    "works" : [
+        {
+            "id" : 1,
+            "image": "image/xmenu-1.webp",
+            "title": "COFFEE CAPUCCINO",
+            "body": "A small river named Duden flows by their place and supplies",
+            "price": 10.60
+        },
+        {
+            "id" : 2,
+            "image": "image/xmenu-2.webp",
+            "title": "COFFEE CAPUCCINO",
+            "body": "A small river named Duden flows by their place and supplies",
+            "price": 10.90
+        },
+        {
+            "id" : 3,
+            "image": "image/xmenu-3.webp",
+            "title": "COFFEE CAPUCCINO",
+            "body": "A small river named Duden flows by their place and supplies",
+            "price": 8.80
+        },
+        {
+            "id" : 4,
+            "image": "image/xmenu-4.webp",
+            "title": "COFFEE CAPUCCINO",
+            "body": "A small river named Duden flows by their place and supplies",
+            "price": 10.40
+        }
+    ],
+    "photogo" : [
+        {
+            "id" : 1,
+            "images": "image/xgallery-1.webp"
+        },
+        {
+            "id" : 2,
+            "images": "image/xgallery-2.webp"
+        },
+        {
+            "id" : 3,
+            "images": "image/xgallery-3.webp"
+        },
+        {
+            "id" : 4,
+            "images": "image/xgallery-4.webp"
+        }
+
+    ],
+    "food" : [
+        {
+            "id" : 1,
+            "image": "image/xmenu-1.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 10.60
+        },
+        {
+            "id" : 2,
+            "image": "image/xmenu-1.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 10.60
+        },
+        {
+            "id" : 3,
+            "image": "image/xmenu-1.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 10.60
+        },
+        {
+            "id" : 4,
+            "image": "image/xmenu-1.webp",
+            "title": "LEMONADE JUICE",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        },
+        {
+            "id" : 5,
+            "image": "image/xmenu-1.webp",
+            "title": "PINEAPPLE JUICE",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        },
+        {
+            "id" : 6,
+            "image": "image/xmenu-1.webp",
+            "title": "SODA DRINKS",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        },
+        {
+            "id" : 7,
+            "image": "image/xmenu-1.webp",
+            "title": "HOT CAKE HONEY",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        },
+        {
+            "id" : 8,
+            "image": "image/xmenu-1.webp",
+            "title": "HOT CAKE HONEY",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        },
+        {
+            "id" : 9,
+            "image": "image/xmenu-1.webp",
+            "title": "HOT CAKE HONEY",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 8.60
+        }
+    ],
+    "tabssectionone" : [
+        {
+            "id" : 1,
+            "image": "image/xdish-1.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 19.60
+        },
+        {
+            "id" : 2,
+            "image": "image/xdish-2.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 18.60
+        },
+        {
+            "id" : 3,
+            "image": "image/xdish-3.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 20.60
+        }
+    ],
+    "tabssectiontow": [
+        {
+            "id" : 4,
+            "image": "image/xdrink-4.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 18.60
+        },
+        {
+            "id" : 5,
+            "image": "image/xdrink-5.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 20.60
+        },
+        {
+            "id" : 6,
+            "image": "image/xdrink-6.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 18.60
+        }
+    ],
+    "tabssectionthree" :[
+        {
+            "id" : 7,
+            "image": "image/xdessert-7.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 20.60
+        },
+        {
+            "id" : 8,
+            "image": "image/xdessert-8.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 20.60
+        },
+        {
+            "id" : 9,
+            "image": "image/xdessert-9j.webp",
+            "title": "GRILLED BEEF",
+            "body": "Far far away, behind the word mountains, far from the countries Vokalia and Consonantia.",
+            "price": 20.60
+        }
+    ]
+}
